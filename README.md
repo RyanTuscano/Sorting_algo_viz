@@ -8,12 +8,24 @@ Welcome to the Sorting Algorithms Visualizer! This tool helps you understand and
 2. Interactive interface allowing users to observe different sorting methods.
 3. Adjustable parameters such as array size and speed to enhance the learning experience.
 
-### Installation
+### Installation (To work with)
 
-Fork the repository by the icon;
+To fork the repository, click the "Fork" Button;
+In the upper right corner of the repository page, you will see a button labeled "Fork". Click this button.
 
-Clone the repository bu the command below:
+Clone the repository by the icon or the command below:
 * Clone
   ```sh
   git clone https://github.com/RyanTuscano/Sorting_algo_viz.git
+  cd Sorting_algo_viz
   ```
+
+### Technologies 
+
+-> HTML
+-> CSS
+-> JavaScript
+-> React.js  (Will soon be used with more algorithms and features)
+
+
+
