@@ -29,3 +29,7 @@ Clone the repository by the icon or the command below:
 
 
 
+<img src="sortingvisualizer.png" alt="Example Image" width="500"/>
+<img src="sortingvisualizer2.png" alt="Example Image" width="500"/>
+
+
